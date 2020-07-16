@@ -1,0 +1,19 @@
+body {
+    height: auto;
+    width: auto;
+    padding-top: 200px;
+}
+#click {
+    font-size: 40px;
+}
+#color{
+
+    height: 300px;
+    width: 300px;
+}
+.blue {
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
